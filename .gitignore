@@ -1,0 +1,8 @@
+**/.DS_Store
+.vscode
+.idea/
+.env
+out.dat
+.git
+
+cmd/__debug_bin
